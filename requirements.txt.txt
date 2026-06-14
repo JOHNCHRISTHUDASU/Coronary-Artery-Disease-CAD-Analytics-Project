@@ -1,0 +1,37 @@
+# CardioVision: AI-Powered Coronary Artery Disease Analytics & Prediction System
+
+## Project Overview
+
+CardioVision is an end-to-end healthcare analytics and machine learning project designed to analyze, predict, and visualize Coronary Artery Disease (CAD) risk using clinical patient data.
+
+## Features
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Risk Probability Prediction
+* Risk Category Classification
+* Interactive Plotly Dashboards
+* Clinical Insights & Visualizations
+* Executive PDF Report Generation
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Plotly
+* Scikit-Learn
+
+## Dataset
+
+Heart Disease Dataset containing patient demographic and clinical attributes.
+
+## Results
+
+The project predicts heart disease risk probabilities and categorizes patients into Low, Medium, and High Risk groups, supporting early diagnosis and healthcare decision-making.
+
+## Author
+
+Chandika John Christhu Dasu
+B.Tech CSE (AI & Data Science)
